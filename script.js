@@ -1,34 +1,34 @@
 const Questions = [   
     {
-        q: "Fill in the blank: Snow leopards live _________.",
-        a: [{ text: "in the desert.", isCorrect: false },
-            { text: "in the jungle.", isCorrect: false },
-            { text: "in the mountains.", isCorrect: true },
-            { text: "in the city.", isCorrect: false },
+        q: "Fill in the blank: Vulture Bees live _________.",
+        a: [{ text: "in Moreno Valley.", isCorrect: false },
+            { text: "in South America.", isCorrect: true },
+            { text: "in Africa.", isCorrect: false },
+            { text: "in Asia.", isCorrect: false },
            ]        
     },
     {
-        q: "Fill in the blank: Snow leopards have _________.",
-        a: [{ text: "red, with whitish fur.", isCorrect: false },
-            { text: "whitish-gray fur.", isCorrect: true },
-            { text: "black stripes, with orange fur.", isCorrect: false },
-            { text: "white dots with black fur.", isCorrect: false },
+        q: "Fill in the blank: Vulture Bees eat _________.",
+        a: [{ text: "meat.", isCorrect: true },
+            { text: "leaves.", isCorrect: false },
+            { text: "dirt.", isCorrect: false },
+            { text: "bones.", isCorrect: false },
            ]  
     },
     {
-        q: "Fill in the blank: Snow leopards use their tail for _________.",
-        a: [{ text: "balance.", isCorrect: true },
-            { text: "killing their prey.", isCorrect: false },
-            { text: "grabbing objects.", isCorrect: false },
-            { text: "swinging.", isCorrect: false },
+        q: "Fill in the blank: All of these are types of Vulture Bees except _________.",
+        a: [{ text: "queen.", isCorrect: false },
+            { text: "forager.", isCorrect: false },
+            { text: "drone.", isCorrect: false },
+            { text: "guardian.", isCorrect: true },
            ]  
     },
     {
-        q: "Fill in the blank: Snow leopards eat _________.",
-        a: [{ text: "frogs.", isCorrect: false },
-            { text: "fish.", isCorrect: false },
-            { text: "lions.", isCorrect: false },
-            { text: "deer.", isCorrect: true },
+        q: "Fill in the blank: What is the purpose of Vulture Bees? __________.",
+        a: [{ text: "to look cool.", isCorrect: false },
+            { text: "to sting people.", isCorrect: false },
+            { text: "clean the environment of rotting animals.", isCorrect: true },
+            { text: "make honey.", isCorrect: false },
            ]  
     },
 
